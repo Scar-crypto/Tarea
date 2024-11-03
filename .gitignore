@@ -1,0 +1,9 @@
+#Ignora el archivo debug.log
+/debug.log
+
+#Ignora cualquier archivo de nombre debug.log
+debug.log
+
+#ignora cualquier archivo de extension .log
+*.log
+
